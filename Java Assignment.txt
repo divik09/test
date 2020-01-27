@@ -1,0 +1,14 @@
+
+-Swap the numbers by three variable.
+-Swap the numbers by two variables.
+-Prime Number.
+-Armstrong Number.
+-Factorial Number.
+-Fibonacci Series.
+-Write table of Number 2.
+-Reverse of Given Number.
+-Find Odd or Even and Count the total of odd and even.
+-Maximum of Two Numbers.
+-Palindrom Number.
+-Random Number.
+
